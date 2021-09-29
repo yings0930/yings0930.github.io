@@ -1,6 +1,13 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 2021
 =====
-
+-------
 ### Submitted
 [1] Song.Z., Li.W., Jin.X., Ying.J., Zhang.X., Song.Y., Li.H. & Fan.Q.(2021). _Genetics, Leadership, and Well-Being: An Investigation with a Large-Scale GWAS_. (Submitted to the Proceedings of the National Academy of Sciences of the United States of America(PNAS), In Revision).   
 
