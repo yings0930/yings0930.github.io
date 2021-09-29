@@ -12,15 +12,15 @@ About Me
 ====== 
 Hi! I am Ying Song, a graduated master student majoring in statistics at National University of Singapore. I once used machine learning to recognize cross-culture pychological differences among Asian countries and design a system to complete Genome-wide Association Studies and process post-GWAS analysis as a research assistant at NUS Business School and Duke-NUS Medical School. I also became a teaching assistant/grader for _YSC 2239-Introduction to Data Science_ taught by Prof. Beskos Alexandros at Yale-NUS College.  
   
-I enjoy the feeling every time I could think up with some crazy ideas, leverage statistical and programming toolkits to extract smart info from unorganized data, and then practice them into reality and finally **solve real problems for the public good**.  
+I enjoy the feeling every time I could think up with some crazy ideas, leverage statistical and programming toolkits to extract smart info from unorganized data, and then practice them into reality and finally **solve real problems(especially about privacy and ethical problems!) for the public good**.    
   
 I believe my transdisciplinary background and experiences in social science, bioinformatics, and statistics could help me break the information barriers, catch accurate demands, capture similarities among multiple disciplines, create innovative ideas, and bring more possibilities into future privacy and secure researches.  
 
 Research Interests
 ======
-• Data Privacy(Especially Differential Privacy)  
-• Graph Mining and Fair Learning
-• Machine Learning and Causal Inference
+• Data Privacy(Specific in Differential Privacy)  
+• Graph Mining and Fair Learning  
+• Machine Learning and Causal Inference  
 
 Selected Scholarships
 ======
