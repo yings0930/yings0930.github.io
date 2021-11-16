@@ -9,7 +9,7 @@ author_profile: true
 =====
 
 ### In Preparation
-[1] Song.Y.& Wang.T.(2021). _Continuous Release of triangles on Directed Graph Streams Under Differential Privacy_.
+[1] Song.Y.& Wang.T.(2021). _Continuous Release of Triangles on Directed Graph Streams Under Differential Privacy_.
 
 ### Submitted
 [1] Song.Z., Li.W., Jin.X., Ying.J., Zhang.X., Song.Y., Li.H. & Fan.Q.(2021). _Genetics, Leadership, and Well-Being: An Investigation with a Large-Scale GWAS_. (Submitted to the Proceedings of the National Academy of Sciences of the United States of America(PNAS), Under the second review).   
