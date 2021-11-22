@@ -9,7 +9,7 @@ author_profile: true
 ------
 __Yale-NUS College, Singapore__  
 July 2020 – January 2021  
-• Graded R programming assignments and data science problem sets for _YSC2239 - Introduction to Data Science_ taught by Prof.Beskos Alexandros.  
+• Graded R programming assignments and data science problem sets for _YSC2239 - Introduction to Data Science_ taught by Prof. Alexandros Beskos.  
 • Topics covered statistical inference, machine learning, data visualization and big data analytics.  
 
 ## Data Scientist Intern
