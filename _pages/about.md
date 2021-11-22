@@ -10,17 +10,17 @@ redirect_from:
 
 About Me
 ====== 
-Hi! I am Ying Song, a graduated master student majoring in statistics at National University of Singapore. I once used machine learning to recognize cross-culture pychological differences among Asian countries and design a system to complete Genome-wide Association Studies and process post-GWAS analysis as a research assistant at NUS Business School and Duke-NUS Medical School. I also became a teaching assistant/grader for _YSC 2239-Introduction to Data Science_ taught by Prof. Alexandros Beskos at Yale-NUS College. Currently, I am designing an efficient and accurate approximate triangle counting algorithm on directed graph streams under differential privacy.   
+Hi! I am Ying Song, a graduated master student majoring in statistics at National University of Singapore. I once used machine learning to recognize cross-culture pychological differences among Asian countries, and design a system to achieve Genome-wide Association Studies and process post-GWAS analysis as a research assistant at NUS Business School and Duke-NUS Medical School. I also became a teaching assistant/grader for _YSC 2239-Introduction to Data Science_ taught by Prof. Alexandros Beskos at Yale-NUS College. Currently, I am proposing an efficient and accurate approximate triangle counting algorithm on directed graph streams under differential privacy.   
   
 I enjoy the feeling every time I could think up with some crazy ideas, leverage statistical and programming toolkits to extract smart info from unorganized data, and then practice them into reality and finally **solve real problems(especially about privacy and ethical problems!) for the public good**.    
   
-I believe my transdisciplinary background and experiences in social science, bioinformatics, statistics and data privacy could help me break the information barriers, catch accurate demands, capture similarities among multiple disciplines, create innovative ideas, and bring more possibilities into future privacy and fairness researches. My next step is to study more insteresting graph privacy problems and probe fairness with causal graphs. I hope I could develop an unified private, fair, interpretable, robust and transparant framework, and leverage this framework into various societal applications. Any form of collaboration is welcome!   
+I believe my transdisciplinary background and experiences in social science, bioinformatics, statistics and data privacy could help me break the information barriers, catch accurate demands, capture similarities among multiple disciplines, create innovative ideas, and bring more possibilities into future privacy and fairness researches. My next step is to study more insteresting open problems of graph privacy and probe fairness with causal graphs. I hope I could develop an unified private, fair, interpretable, robust and transparant framework, and apply this framework into various societal fields. Any form of collaboration is welcome!   
 
 Research Interests
 ======
-• Data Privacy(Especially in Differential Privacy)
-• Network Science and Fair Learning  
-• Machine Learning and Causal Inference  
+• Data Privacy(Especially in Differential Privacy)   
+• Network Science and Fair Learning    
+• Machine Learning and Causal Inference   
 
 Selected Scholarships
 ======
