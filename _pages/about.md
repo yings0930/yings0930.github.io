@@ -14,7 +14,7 @@ Hi! I am Ying Song, a graduated master student majoring in statistics at Nationa
   
 I enjoy the feeling every time I could think up with some crazy ideas, leverage statistical and programming toolkits to extract smart info from unorganized data, and then practice them into reality and finally **solve real problems(especially about privacy and ethical problems!) for the public good**.    
   
-I believe my transdisciplinary background and experiences in social science, bioinformatics, statistics and data privacy could help me break the information barriers, catch accurate demands, capture similarities among multiple disciplines, create innovative ideas, and bring more possibilities into future privacy and fairness researches. My next step is to study more insteresting open problems of graph privacy and probe fairness with causal graphs. I hope I could develop an unified private, fair, interpretable, robust and transparant framework, and apply this framework into various societal fields. Any form of collaboration is welcome!   
+I believe my transdisciplinary background and experiences in social science, bioinformatics, statistics and data privacy could help me break the information barriers, catch accurate demands, capture similarities among multiple disciplines, create innovative ideas, and bring more possibilities into future privacy and fairness researches. My next step is to study more insteresting open problems of graph privacy and probe fairness with causal graphs. I hope I could develop a unified private, fair, interpretable, robust and transparant framework, and apply this framework into various societal fields. Any form of collaboration is welcome!   
 
 Research Interests
 ======
