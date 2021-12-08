@@ -22,6 +22,10 @@ Research Interests
 • Network Science and Fair Learning    
 • Machine Learning and Causal Inference   
 
+Professional Services
+======
+• Reviewer: the Academy of Management 2022, in areas of Communication, Digital Technology and Organization(CTO) and Research Methods(RM)  
+
 Selected Scholarships
 ======
 • National Scholarship, Ministry of Education of the People's Republic of China, 2018  
