@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Pudding 07/22/2013 - 12/23/2021  
+I will love and miss you forever, my girl, my baby, and my angel.  
 
 About Me
 ====== 
