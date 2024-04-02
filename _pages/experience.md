@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Machine Learning for Signal Processing Group(MLSP) Group Member
+## MLSP Group Member
 ------
 __Language Technologies Institute, Carnegie Mellon University, USA__  
 August 2023 – Ongoing  
@@ -15,7 +15,7 @@ August 2023 – Ongoing
 • Conduct research on privacy risks of interactions between LLM and graph neural networks.   
 
 
-## Laboratory for Education and Research on Security Assured Information Systems (LERSAIS) Lab Member
+## LERSAIS Lab Member
 ------
 __LERSAIS, University of Pittsburgh, USA__  
 August 2022 – Ongoing  
