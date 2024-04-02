@@ -17,7 +17,7 @@ August 2023 – Ongoing
 
 ## Laboratory for Education and Research on Security Assured Information Systems (LERSAIS) Lab Member
 ------
-__Language Technologies Institute, Carnegie Mellon University, USA__  
+__LERSAIS, University of Pittsburgh, USA__  
 August 2022 – Ongoing  
 • Joined the the Laboratory for Education and Research on Security Assured Information Systems (LERSAIS) under the supervision of Dr. Balaji Palanisamy    
 • Conduct research mainly on security and privacy risks of graph neural networks.   
