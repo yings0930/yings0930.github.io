@@ -18,7 +18,7 @@ Research Interests
 ======
 • Trustworthy Graph Learning: security and privacy(main focus), fairness, robustness, explainability, etc.     
 • Causal Learning and Reasoning: (multi-modal)LLMs, graphs.   
-• AI for Science: biomedicine, genetics.   
+• AI for Science: biomedicine, genetics, cyber forensics.     
 
 
 Selected Scholarships
