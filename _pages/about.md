@@ -16,9 +16,9 @@ Hi! I am Ying Song, a second-year PhD student in Information Science at Universi
 
 Research Interests
 ======
-• Trustworthy Graph Learning: security and privacy(main focus), fairness, robustness, explainability, etc.  
-• Causal Learning and Reasoning: (multi-modal)LLMs, graphs.
-• AI for Science: biomedicine, genetics.
+• Trustworthy Graph Learning: security and privacy(main focus), fairness, robustness, explainability, etc.     
+• Causal Learning and Reasoning: (multi-modal)LLMs, graphs.   
+• AI for Science: biomedicine, genetics.   
 
 
 Selected Scholarships
