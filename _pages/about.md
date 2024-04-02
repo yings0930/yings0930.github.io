@@ -23,6 +23,7 @@ Research Interests
 
 Selected Scholarships
 ======
+• SCI Fellowship, University of Pittsburgh, 2022, 2023.
 • National Scholarship, Ministry of Education of the People's Republic of China, 2018  
 • Meritorious Winner of the Interdisciplinary Contest in Modeling(MCM/ICM), COMAP, USA, 2018  
 • Second Prize of the Eastern Area of China in the First China (Hengqin) International University Quantitative Finance Competition, Worldwide, 2018  
