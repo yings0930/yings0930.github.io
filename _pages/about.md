@@ -12,7 +12,7 @@ I will love and miss you forever, my girl, my baby, and my angel.
 
 About Me
 ====== 
-Hi! I am Ying Song, a second-year PhD student in Information Science at University of Pittsburgh under the supervision of Dr. Balaji Palanisamy from UPitt and Dr. Rita Singh from Carnegie Mellon University. Before that, I received my Master degree in statistics at National University of Singapore. 
+Hi! I am Ying Song, a third-year PhD student in Information Science at University of Pittsburgh under the supervision of Dr. Balaji Palanisamy from UPitt. Before that, I received my Master degree in Statistics at National University of Singapore. 
 
 Research Interests
 ======
