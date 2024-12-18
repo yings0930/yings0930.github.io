@@ -5,12 +5,18 @@ permalink: /experience/
 author_profile: true
 ---
 
+## Teaching Assistant
+------
+__DINS, University of Pittsburgh, USA__  
+May 2024 – Ongoing  
+• Fall 2024: Designed a new course named _Introduction to Large Language Models_. Wrote two versions of syllabi (long and short courses), and proposed quizzes and assignments under the supervision of Professor Daqing He. The collected resources will be released soon.       
+• Summer 2024: Graded assignments and made quizzes for INFSCI 2595 - Machine Learning, under the supervision of Professor Patrick Skeba.  
 
 
 ## MLSP Group Member
 ------
 __Language Technologies Institute, Carnegie Mellon University, USA__  
-August 2023 – Ongoing  
+August 2023 – October 2024  
 • Joined the Machine Learning for Signal Processing Group(MLSP) group under the supervision of Dr. Rita Singh and Dr. Bhiksha Raj.   
 • Conduct research on privacy risks of interactions between LLM and graph neural networks.   
 
