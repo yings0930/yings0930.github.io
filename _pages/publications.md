@@ -13,15 +13,8 @@ author_profile: true
 
 [2] Song.Y. & Palanisamy.B. (2024). _A Data-free Model Stealing Attack against Graph Neural Networks_.     
 
-
-2024
-=====
-
 ### In Press
 [1] Song.Y., Singh.R. & Palanisamy.B. (2024). _Krait: A Backdoor Attack Against Graph Prompt Tuning_. In the 3rd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML).
-
-2024
-=====
 
 ### Published
 [1] Song.Y. & Palanisamy.B. (2024). _MAPPING: Debiasing Graph Neural Networks for Fair Node Classification with Limited Sensitive Information Leakage_. In the World Wide Web J. 27 (6), 74.   
