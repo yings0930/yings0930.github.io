@@ -11,6 +11,7 @@ __DINS, University of Pittsburgh, USA__
 May 2024 – Ongoing  
 • Fall 2024: Designed a new course named _Introduction to Large Language Models_. Wrote two versions of syllabi (long and short courses), and proposed quizzes and assignments under the supervision of Professor Daqing He. The collected resources will be released soon.       
 • Summer 2024: Graded assignments and made quizzes for INFSCI 2595 - Machine Learning, under the supervision of Professor Patrick Skeba.  
+• Summer 2024: Graded assignments and quizzes for INFSCI 2150 - Information Security and Privacy, under the supervision of Professor Balaji Palanisamy.   
 
 
 ## MLSP Group Member
